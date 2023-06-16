@@ -615,7 +615,7 @@ span{
 
 @media(max-width:1024px){
     .header{
-        padding: 2rem 3%;
+        padding: 2rem;
     }
 
     section{
@@ -628,6 +628,14 @@ span{
 
     .home .profession-container .overlay{
         right: -15rem;
+    }
+
+    #darkmode-icon{
+        padding-right: 10rem;
+    }
+    
+    #menu-icon{
+        padding-right: 10rem;
     }
 }
 
@@ -886,4 +894,4 @@ span{
         text-align: center;
         margin-top: 2rem;
     }
-} 
+}
